@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bohecowasufe.github.io/sitemap.xml
